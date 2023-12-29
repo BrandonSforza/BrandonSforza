@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 
-Entepreneur and Artificial Intelligence Developer
+## Brandon Sforza - Entepreneur and Artificial Intelligence Developer
 
 Interested in the development of artificial intelligence and its branches, with the purpose of using them in the military industry. Passionate about the corporate sector and also being a physicist at heart.
 
