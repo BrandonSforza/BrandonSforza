@@ -64,11 +64,11 @@ Interested in the development of artificial intelligence and its branches, with 
 
 ### 📧 Connect with me 
 
-<a href="https://t.me/Sephynarius">
+<a href="https://t.me/BrandonSforza">
   <img align="left" alt="Brandon's Telegram" width="22px" src="https://web.telegram.org/img/logo_share.png" />
 </a>
 
-<a href="https://instagram.com/Sephynarius/">
+<a href="https://instagram.com/ernestsforza/">
   <img align="left" alt="Brandon's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" />
 </a>
 
@@ -76,7 +76,7 @@ Interested in the development of artificial intelligence and its branches, with 
   <img align="left" alt="Brandon's Mail" width="22px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
 </a>
 
-<a href="https://twitter.com/mememe">
+<a href="https://twitter.com/BrandonSforza">
   <img align="left" alt="Brandon's Twitter" width="22px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
 </a>
 
@@ -84,7 +84,7 @@ Interested in the development of artificial intelligence and its branches, with 
   <img align="left" alt="Brandon's Linkdein" width="22px" src="https://cdn3.iconfinder.com/data/icons/inficons/512/linkedin.png" />
 </a>
 
-<a href="https://github.com/BrandonCasT">
+<a href="https://github.com/BrandonSforza">
   <img align="left" alt="Brandon's Github" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" />
 </a>
 
