@@ -70,6 +70,12 @@ Interested in the development of artificial intelligence and its branches, with 
   </picture> 
 </a> 
 
+<div align="center">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  <!--<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />--->
+</div>
+
+
 <a href="https://www.threads.net/@ernestsforza" target="_blank" rel="noreferrer">
   <picture> 
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> 
