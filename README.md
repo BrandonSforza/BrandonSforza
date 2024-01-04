@@ -10,7 +10,7 @@ Interested in the development of artificial intelligence and its branches, with 
 *   🌍  I'm based in Everiwhere
 *   🖥️  See my portfolio at [MyPortafolio](http://luciferstar.com)
 *   ✉️  You can contact me at [archangelus.morningstar@gmail.com](mailto:archangelus.morningstar@gmail.com)
-*   ☣  I'm currently working on [U.L.T.R.O.N.](http://luciferstar.com)
+*   ☣  I'm currently working on [E.X.C.I.D.I.U.M.](http://luciferstar.com)
 *   🧠  I'm learning Computer Vision
 *   🤝  I'm open to collaborating on Any military or AI projects
 *   ⚡  I am a Vampire
