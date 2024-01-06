@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F733&random=false&width=480&lines=Stop+resisting%2C+I+am+here+to+cure+you)](https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F733&random=false&width=480&lines=Stop+resisting%2C+I+am+here+to+cure+you.)](https://git.io/typing-svg">
 </p>
 
 ## Brandon Sforza - Entepreneur and Artificial Intelligence Developer
