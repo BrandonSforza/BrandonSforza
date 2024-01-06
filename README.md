@@ -1,7 +1,7 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4AF731&random=false&width=435&separator=%3C&lines=I+was+a+newborn+vampire%2C+weeping+at+the+beauty+of+the+night.%3COnce+upon+a+time%2C+there+was+a+girl+and+the+girl+had+a+shadow.%3CWhat+an+excellent+day+for+an+exorcism.%3CVampires%2C+werewolves%2C+fallen+angels+and+fairies+lurk+in+the+shadows%2C+their+intentions+far+from+honorable.%3CIt+is+only+when+a+man+feels+himself+face+to+face+with+such+horrors+that+he+can+understand+their+true+import.%3CEvil+has+only+the+power+that+we+give+it.%3CStop+resisting%2C+I+am+here+to+cure+you.%3CLove+will+have+its+sacrifices.+No+sacrifice+without+blood.%3CHorror+is+like+a+serpent;+always+shedding+its+skin%2C+always+changing.+And+it+will+always+come+back.%3CSometimes+dead+is+better.%3CIf+you+gaze+long+enough+into+an+abyss%2C+the+abyss+will+gaze+back+into+you.)](https://git.io/typing-svg">
 
 ## Brandon Sforza - Entepreneur and Artificial Intelligence Developer
 
